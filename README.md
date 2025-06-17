@@ -27,7 +27,7 @@ Aunque explico todo con cuidado y usando métodos seguros, modificar un Android 
 
 ## 📜 Licencia
 
-Este proyecto está bajo la [Licencia MIT](LICENCIA).  
+Este proyecto está bajo la [Licencia MIT](https://github.com/Andreslan327/LanDroid/blob/main/LICENCIA).  
 Se puede usar, modificar y compartir el contenido, siempre dando crédito.
 
 ---
