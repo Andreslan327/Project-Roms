@@ -21,7 +21,7 @@ Este es un repositorio donde comparto todo lo relacionado con **root**, **custom
 Todo lo que está aquí lo estrás usando **bajo tu propia responsabilidad**.  
 Aunque explico todo con cuidado y usando métodos seguros, modificar un Android puede causar pérdida de datos o fallos si no se hace bien.
 
-**Siempre hagan un respaldo antes de modificar tu celular.**
+**Siempre hagan un respaldo antes de modificar un celular.**
 
 ---
 
