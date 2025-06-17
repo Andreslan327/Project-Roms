@@ -18,16 +18,16 @@ Este es un repositorio donde comparto todo lo relacionado con **root**, **custom
 
 ## ⚠️ Advertencia
 
-Todo lo que está aquí lo usás **bajo tu propia responsabilidad**.  
+Todo lo que está aquí lo estrás usando **bajo tu propia responsabilidad**.  
 Aunque explico todo con cuidado y usando métodos seguros, modificar un Android puede causar pérdida de datos o fallos si no se hace bien.
 
-**Siempre hacé un respaldo antes de modificar tu celular.**
+**Siempre hagan un respaldo antes de modificar tu celular.**
 
 ---
 
 ## 📜 Licencia
 
-Este proyecto está bajo la [Licencia MIT](LICENSE).  
+Este proyecto está bajo la [Licencia MIT](LICENCIA).  
 Se puede usar, modificar y compartir el contenido, siempre dando crédito.
 
 ---
