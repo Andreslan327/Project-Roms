@@ -34,7 +34,7 @@ Se puede usar, modificar y compartir el contenido, siempre dando crédito.
 
 ## 🙋‍♂️ Autor
 
-Creado por **@Andreslan327**  
+Creado por **[@Andreslan327](https://github.com/Andreslan327)**  
 Apasionado por Android, el root y todo lo que sea meterle mano a los dispositivos. Esto es pa' la gente que le gusta aprender y sacarle el máximo a su dispositivo.
 
 ---
