@@ -16,7 +16,7 @@ mi intención es ayudarte a encontrar los archivos correctos y más confiables p
 
 ---
 
-## 🔗 [📁 Dispositivos](Dispositivos)
+## 🔗 [📁 Dispositivos](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/Lista%20de%20marcas%20de%20dispositivos.md)
 
 Desde ahí podrás acceder directamente a las marcas disponibles.
 
