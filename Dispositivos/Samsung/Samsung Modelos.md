@@ -8,6 +8,6 @@ Aquí se listan los modelos disponibles de Samsung a los que se les ha recopilad
 
 ## 📱 Modelos disponibles
 
-* [Galaxy A23XX]()
+* [Galaxy A23XX](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/Samsung/A23/A23XX.md)
 
 (Se irán agregando más modelos a medida que se consiga y organice la información correcta.)
