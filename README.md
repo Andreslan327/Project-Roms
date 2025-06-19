@@ -16,6 +16,12 @@ mi intención es ayudarte a encontrar los archivos correctos y más confiables p
 
 ---
 
+## 🔗 [📁 Dispositivos](Dispositivos)
+
+Desde ahí podrás acceder directamente a las marcas disponibles.
+
+---
+
 ## 📁 Organización
 
 Todos los dispositivos a los que se les haya recopilado información estarán dentro de la carpeta **Dispositivos**.
@@ -31,7 +37,7 @@ Yo me encargaré de agregar los enlaces y organizar todo lo mejor posible.
 
 ## 🎯 Objetivo del proyecto
 
-LanDroid no es un repositorio para enseñar a instalar lo indicado paso por paso.
+LanDroid no es un repositorio para enseñar a rootear paso por paso.
 **El objetivo es facilitar el acceso a los archivos correctos para cada celular**, evitando que la gente se pierda entre hilos largos, versiones incompatibles o enlaces caídos.
 
 ---
