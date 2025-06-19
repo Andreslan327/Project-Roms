@@ -1,45 +1,62 @@
 # LanDroid
 
-¡Bienvenido a **LanDroid**!  
-Este es un repositorio donde comparto todo lo relacionado con **root**, **custom ROMs**, **recoverys**, optimizaciones, herramientas útiles y más para modificar dispositivos Android.
+**LanDroid** es un repositorio que recopila archivos, herramientas y enlaces útiles para modificar celulares Android.
+Aquí se encuentran cosas como boot.img, recoverys personalizados, custom ROMs, herramientas y más, **todo organizado por dispositivo**.
 
 ---
 
-## 📱 ¿Qué vas a encontrar?
+## ⚠️ Importante
 
-- Guías paso a paso para rootear varios celulares
-- Cómo instalar un custom recovery (TWRP, OrangeFox, etc.)
-- Instalación y prueba de custom ROMs recomendadas
-- Herramientas útiles para hacer mods (ADB, Fastboot, Magisk, etc.)
-- Trucos para mejorar el rendimiento y personalización
-- Archivos y recursos probados en dispositivos reales
+Este repositorio **no se hace responsable por daños en tu dispositivo**.
+Si algo le pasa a tu celular por seguir información de aquí, eso es totalmente responsabilidad tuya.
+**Este proyecto solo recopila y organiza lo que ya está publicado en foros como XDA** y otras fuentes conocidas.
 
----
-
-## ⚠️ Advertencia
-
-Todo lo que está aquí lo estrás usando **bajo tu propia responsabilidad**.  
-Aunque explico todo con cuidado y usando métodos seguros, modificar un Android puede causar pérdida de datos o fallos si no se hace bien.
-
-**Siempre hagan un respaldo antes de modificar un celular.**
+Además, **no todos los dispositivos que aparecen aquí han sido modificados directamente por mí**, así que ten eso claro:
+mi intención es ayudarte a encontrar los archivos correctos y más confiables posible, no darte una garantía absoluta.
 
 ---
 
-## 📜 Licencia
+## 📁 Organización
 
-Este proyecto está bajo la [Licencia MIT](https://github.com/Andreslan327/LanDroid/blob/main/LICENCIA).  
-Se puede usar, modificar y compartir el contenido, siempre dando crédito.
+Todos los dispositivos a los que se les haya recopilado información estarán dentro de la carpeta **Dispositivos**.
+Desde ahí se podrá acceder a:
+
+* Archivos necesarios por modelo (boot, recovery, ROM, etc.)
+* Enlaces directos a hilos o fuentes oficiales
+* Detalles importantes sobre compatibilidad y funcionamiento
+
+Yo me encargaré de agregar los enlaces y organizar todo lo mejor posible.
 
 ---
 
-## 🙋‍♂️ Autor
+## 🎯 Objetivo del proyecto
 
-Creado por **[@Andreslan327](https://github.com/Andreslan327)**  
-Apasionado por Android, el root y todo lo que sea meterle mano a los dispositivos. Esto es pa' la gente que le gusta aprender y sacarle el máximo a su dispositivo.
+LanDroid no es un repositorio para enseñar a instalar lo indicado paso por paso.
+**El objetivo es facilitar el acceso a los archivos correctos para cada celular**, evitando que la gente se pierda entre hilos largos, versiones incompatibles o enlaces caídos.
 
 ---
 
-## 🚧 En desarrollo
+## 🧠 Sobre el contenido
 
-Este repo se va actualizando con el tiempo.  
-Si te sirve, dejá una estrella ⭐ y compartilo con más gente que le meta al modding.
+La mayoría de archivos y herramientas se consiguen investigando experiencias de usuarios reales en foros especializados.
+LanDroid trata de filtrar lo más útil y confiable, para que solo tengas que enfocarte en seguir los pasos correctos.
+
+---
+
+## 📄 Más información
+
+Si tienes dudas sobre cómo funciona este proyecto, qué tipos de celulares son difíciles de modificar, o detalles más técnicos, revisa el archivo [info\_extra.md](info_extra.md).
+
+---
+
+## 🙋 Autor
+
+Creado por **Andrés**
+Este proyecto nace de la idea de ayudar a la comunidad que quiere modificar su Android, sin tener que perder horas buscando archivos por todo lado.
+
+---
+
+## 🧪 Estado
+
+Esto sigue en construcción.
+Se irá actualizando con más modelos y recursos poco a poco.
