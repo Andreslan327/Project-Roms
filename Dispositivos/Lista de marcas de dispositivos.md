@@ -8,6 +8,6 @@ Con el tiempo esta lista se irá llenando con más marcas y recursos.
 
 ## 📂 Marcas disponibles
 
-* [Samsung](Dispositivos/Samsung/)
+* [Samsung](https://github.com/Andreslan327/LanDroid/tree/main/Dispositivos/Samsung)
 
 (Más marcas se agregarán pronto)
