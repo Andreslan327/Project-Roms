@@ -1,178 +1,155 @@
-# Redmi Note 12 4G (Guía en general) Nota: Si solo quieres los archivos mira el [Solo archivos](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/Xiaomi/Redmi Note 12 4G/Tapas/Solo%20archivos%20A235M.md)
+# Redmi Note 12 4G (Guía general)
+
+**Nota:** Si solo quieres los archivos, mira el apartado [Solo archivos](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/Xiaomi/Redmi%20Note%2012%204G/Tapas/Solo%20archivos%20A235M.md)
+
 <p align="center">
   <img src="https://fdn2.gsmarena.com/vv/pics/xiaomi/redmi-note-12-4g-1.jpg" alt="Xiaomi Redmi Note 12 4G" width="400"/>
 </p>
 
 ## Detalles:
-- **Lanzamiento 2023, 30 de marzo
-- **Pantalla:** 6.67", 1080x2400  
-- **Procesador:** Snapdragon 685 (2.8GHz)  
-- **RAM:** 4GB / 6GB / 8GB  
-- **Almacenamiento:** 64GB / 128GB / 256GB (expandible microSD)  
-- **Cámaras:** 50MP + 8MP + 2MP
-- **Batería: Li-Po 5000 mAh, no extraíble
-- **Carga: 33 W por cable 
-- **Sistema:** Android 13 (de salida)
-- **3.5mm jack: Si
-- **Sensores: Huella dactilar (lateral), acelerómetro, giroscopio, proximidad, brújula
 
+* **Lanzamiento:** 30 de marzo de 2023
+* **Pantalla:** 6.67", 1080x2400
+* **Procesador:** Snapdragon 685 (2.8GHz)
+* **RAM:** 4GB / 6GB / 8GB
+* **Almacenamiento:** 64GB / 128GB / 256GB (expandible por microSD)
+* **Cámaras:** 50MP + 8MP + 2MP
+* **Batería:** Li-Po 5000 mAh, no extraíble
+* **Carga:** 33 W por cable
+* **Sistema:** Android 13 (de salida)
+* **3.5mm Jack:** Sí
+* **Sensores:** Huella dactilar (lateral), acelerómetro, giroscopio, proximidad, brújula
 
 ## Tener en cuenta antes de hacer cualquier cosa
-1. El celular tiene buen desarrollo de Roms y Ports
-2. El root en este dispositivo es sencillo y tengo alguno que otro archivo útil para su uso.  
-3. Es todo lo más importante que debes de saber ahora, continúa.
+
+1. El celular tiene buen desarrollo de ROMs y ports.
+2. El root en este dispositivo es sencillo, y tengo algunos archivos útiles para su uso.
+3. Es todo lo más importante que debes saber por ahora, continúa.
 
 ## Desbloqueo de bootloader
-El teléfono en Miui es fácil de desbloquear pero desde HyperOS se ha complicado. Recuerde hacer copia de seguridad de sus datos y mantener su telefono conectado a datos moviles durante todo el proceso. Empecemos.
 
-Método Mi Community (MIUI/HyperOS)
-- Descarga la app de Xiaomi Community desde la Google Play Store.
-- Crear una cuenta en dicha app (la cuenta debe de tener al menos 30 días de creada antes de aplicar para el desbloqueo).
--  Cambiar la región de la app a Global.
-- Tocar el boton de Aplicar para desbloqueo de bootloader a las 00:00 hora Pekin, China.
-- Si está en miui lo mas probable es que le acepten la solicitud y deba esperar algunos dias. Pero en HyperOS solo aceptan 2000 solicitudes diarias.
-- si su solicitud no fue aceptada vuelva a intentar el siguiente dia. Buena Suerte
+El teléfono en MIUI es fácil de desbloquear, pero desde HyperOS se ha complicado. Recuerda hacer copia de seguridad de tus datos y mantener tu teléfono conectado a datos móviles durante todo el proceso. Empecemos:
 
-Metodo Mi unlock (Miui/HyperOS)
-Este metodo podria funcionar en algunos casos
+### Método Mi Community (MIUI/HyperOS)
 
-- instale en windows los respectivos drivers de xiaomi (en linux solo basta con instalar fastboot y adb en la terminal o tienda de software)
-- Descargar el programa Mi unlock
-- Abrir el programa y conectar su telefono con el modo depuración usb activado
-- toque en unlock y si tuvo suerte se desbloqueará o se le avisará cuantos dias debe esperar de lo contrario solo queda intentar el metodo de arriba
+* Descarga la app Xiaomi Community desde Google Play Store.
+* Crea una cuenta (la cuenta debe tener al menos 30 días de creada).
+* Cambia la región de la app a "Global".
+* Toca el botón de aplicar para el desbloqueo del bootloader a las 00:00 (hora Pekín, China).
+* Si estás en MIUI, es probable que acepten la solicitud y te den una espera de algunos días. En HyperOS solo aceptan 2000 solicitudes por día.
+* Si no fue aceptada, vuelve a intentar al siguiente día. Buena suerte.
 
-Metodo Bypass (solo MIUI y HyperOS 1)
+### Método Mi Unlock (MIUI/HyperOS)
 
-- Descargue el programa HyperSploit desde su github
-- Abra el programa y conecte su telefono con el modo depuración usb activado
-- Siga las instrucciones del programa y si todo salió bien. El programa el avisará cuantos dias debe esperae
-- luego de pasados los dias siga los pasos del metodo Mi Unlock.
+Este método podría funcionar en algunos casos:
 
-### Cosas que suceden a la hora de desbloquear el bootloader 
-- Formateo completo (Haz copia de todo mano)
+* Instala los drivers de Xiaomi en Windows (en Linux basta con tener `adb` y `fastboot`).
+* Descarga el programa Mi Unlock.
+* Abre el programa y conecta tu teléfono con la depuración USB activada.
+* Toca en "Unlock". Si tienes suerte, se desbloqueará, o te indicará cuántos días debes esperar.
+
+### Método Bypass (solo MIUI y HyperOS 1)
+
+* Descarga el programa HyperSploit desde su [GitHub](https://github.com/).
+* Abre el programa y conecta tu teléfono con la depuración USB activada.
+* Sigue las instrucciones. El programa te indicará cuántos días debes esperar.
+* Luego sigue los pasos del método Mi Unlock.
+
+**Cosas que suceden al desbloquear el bootloader:** Formateo completo. Haz copia de todo.
 
 ## Firmware oficial
 
-En internet hay muchas páginas que ofrecen el firmware "oficial" de Xiaomi.. A continuación, dejo el enlace directo para el modelo de este teléfono, útil si quieres restaurar el sistema.
-IMPORTANTE! ASEGURATE DE QUE EL FIRMWARE SEA EL DE TU MODELO Y REGIÓN.
+En internet hay muchas páginas que ofrecen el firmware "oficial" de Xiaomi. A continuación, dejo el enlace directo para el modelo de este teléfono, útil si quieres restaurar el sistema.
 
-- https://mifirm.net/model/tapas.ttt#global
+**IMPORTANTE:** Asegúrate de que el firmware sea el de tu modelo y región.
 
-Para Flashear el Firmware puedes hacerlo a través de el programa llamado Mi Flash o via adb sideload
+* [MiFirm Redmi Note 12 4G](https://mifirm.net/model/tapas.ttt#global)
 
-También te recomiendo unirte al siguiente grupo de Telegram para información
+Para flashear el firmware puedes usar Mi Flash o ADB Sideload.
 
-**[RedmiNote12 4G Grupo Español](https://t.me/RedmiNote124GNFC)**,
+Te recomiendo unirte a este grupo:
+
+* **[RedmiNote12 4G Grupo Español](https://t.me/RedmiNote124GNFC)**
 
 ---
 
-
 ## Custom Recovery
 
-Lo primero a hacerse luego de desbloqueado el bootloader es instalar un custom Recocery. Empecemos.
+Una vez desbloqueado el bootloader, instala un custom recovery. Empecemos:
 
-1. Descarga un Custom Recovery para este dispositivo. Aquí te dejo el mas recomendado. De todos modos, haré un apartado de archivos necesarios y útiles para este celular en otro `.md`.
-  -[OrangeFox](https://orangefox.download/device/65a5a3287ac2a93129dc9543)
+1. Descarga un recovery compatible:
 
-   **Ninguno de estos archivos son míos. Créditos para sus respectivos dueños o modders.**
+   * [OrangeFox](https://orangefox.download/device/65a5a3287ac2a93129dc9543)
 
-2. Ingresa al modo Fastboot (con el telefono apagado presiona Volumen Abajo + Botón de encendido)
+   **Créditos para sus respectivos autores o modders.**
 
-3.  Para instalsr el custom recovery el metodo varia dependiendo del sistema operativo
+2. Entra en modo Fastboot (Volumen abajo + Power apagado).
 
-a. Metodo Windows
+### Instalación:
 
-1.  Descarga las herramientas llamadas Platform-Tools
+#### En Windows
 
-2. Descarga la herramienta Mi Flash para los drivers correspondiente: https://xiaomiflashtool.com/download/xiaomi-flash-tool-20220507
+1. Descarga Platform-Tools.
+2. Instala los drivers desde [Mi Flash Tool](https://xiaomiflashtool.com/download/xiaomi-flash-tool-20220507).
+3. Copia el recovery a la carpeta Platform-Tools.
+4. Abre CMD en esa carpeta.
+5. Conecta el teléfono en Fastboot.
+6. Ejecuta: `fastboot flash recovery recovery.img`
+7. Listo.
 
-3. Copia el archovo del recovery a la caroeta Platform-Tools
+#### En Linux
 
-4. Abre el cmd en la caroeta Platform-Tools
+1. Conecta el teléfono en Fastboot.
+2. Abre la terminal donde esté el archivo del recovery.
+3. Ejecuta: `fastboot flash recovery recovery.img`
+4. Listo.
 
-5. Conecta tu telefono en modo Fastboot
-
-6. escribe fastboot flash recovery recovery.img y presiona enter
-
-7. Listo
-
-b. Metodo Linux
-
-1. Conecta tu telefono en modo fastboot
-
-2. Abre la terminal de Linux en la carpeta donde tengas el recovery descargado
-
-3.  escribe fastboot flash recovery recovery.img y presiona enter
-
-4. Listo
-
-ADVERTENCIA.
-
-********NO uses el comando fastboot boot o brickearas tu dispositivo.********
+> **Advertencia:** NO uses `fastboot boot`, podrías brickear tu dispositivo.
 
 ## Root
 
-A continuación, te explico los metodos para rootear tu Xiaomi Redmi Note 12 4G. Recuerda hacer esto **solo cuando el bootloader esté completamente desbloqueado y un custom recovery instalado**.
+Solo haz esto cuando el bootloader esté desbloqueado y tengas un recovery instalado.
 
-### Métodos:
+### Root con KernelSU (Fácil)
 
-Root con KernelSU usando un Kernel ya parcheado (Facil)
+1. Ingresa al custom recovery (Vol+ y Power apagado).
+2. Instala un kernel ya parcheado (lo encuentras en el grupo de Telegram).
+3. Reinicia e instala la app KernelSU desde su GitHub.
+4. Listo.
 
-1. Ingresa al custom recovery (Volumen arriba + Botón de encendido con el telefono apagado)
+### Root con KernelSU (Manual)
 
-2.  Una vez dentro del recovery, busca en el almacenamiento interno un kernel ya parcheado que hayas descargado (puedes encontrarlos en el grupo de telegram del redmi note 12 4G)
+1. Ingresa al recovery.
+2. Haz backup del `init_boot` y `boot`.
+3. Reinicia e instala KernelSU.
+4. Dentro de la app, toca en instalar. Te dirá qué partición necesitas.
+5. Busca el archivo correspondiente.
+6. Parchea y guarda.
+7. Vuelve al recovery, flashea el archivo parcheado.
+8. Reinicia. Root listo.
 
-3. Instala el kernel
+### Root con Magisk
 
-4. Reinica el telefono y descarga la app de kernelSU desde su github
+#### Método 1 (Fácil)
 
-5. listo
+1. Descarga Magisk o variante (.zip).
+2. Reinicia al recovery y flashea.
+3. Al iniciar, instala el APK si no se instala solo.
+4. Abre Magisk, completa la instalación si lo pide. Reinicia. Listo.
 
-Root con KernelSU parcheando manualmente
+#### Método 2 (Parcheando boot)
 
-1. Ingresa al custom recovery (Volumen arriba + Botón de encendido con el telefono apagado)
+1. Descarga Magisk (APK).
+2. Selecciona "parchear archivo" y elige el boot.img.
+3. Parchea.
+4. Flashea por recovery o por fastboot (`fastboot flash boot boot.img`).
+5. Reinicia y verifica.
 
-2. Haz un respaldo del init boot y boot 
+**Nota:** Ningún archivo ofrecido aquí es mío. Todos son de terceros. Crédito a sus autores.
 
-3. Reinicia el telefono y descarga la app de kernelSU desde su github
+---
 
-4. Instalala y abrela
+## Recursos adicionales
 
-5. Dentro de la app toca donde dice instalar y la app te dirá si debes parchear Init boot o Boot
-
-6. Busca en el almacenamiento dentro de la carpeta de tu recovery el respaldo del init boot y boot y seleccióna el archivo que la app te haya dicho.
-
-7. Una vez parcheado apaga el telefono y entra al custom recovery
-
-8. Busca el archivo llamado kernelsu patched dentro de la carpeta Download y seleccionalo
-
-9. Instalalo en la partición Init boot o boot dependiendo de cual te haya dicho la app de kernelSU
-
-10. Reinicia y ya deberias tener tu telefono con root
-
-Metodos Magisk
-
-Metodo 1 (Facil)
-
-1. Descarga magisk o una variante como Delta, Alpha, procura que sea un archivo .zip (basta con buscar magisk (nombre de la variente + GitHub)
-
-2. Reiniciar en recovery y flashear el .zip.
-
-3. Iniciar el sistema, aquí puedes esperar a que se instale sola el .apk de cada magisk o hacerlo tu manualmente como si de instalar cualquier aplicación se tratara.
-
-4. Iniciar magisk, en la mayoría de los casos te saldrá un cartel que indica que necesita una instalación adicional, sino aparece esta bien, si aparece solo dar clic en "aceptar" y posterior en la opción que dice " instalación directa, recomendado", el celular se reiniciara y magisk quedara instalado.
-
-Metodo 2 Magisk parcheando boot:
-
-1. Descargar el .apk de cualquier magisk 
-2. clic en instalar y escoger "seleccionar y parchear archivo"
-3. parchear la boot.img como en el método de KSU
-4.  reiniciar en recovery y flashear en la partición boot, sino usas recovery, puedes usar fastboot flash boot.
-5. iniciar el sistema y comprobar.
-
-
-**Nota:** Ninguno de los archivos ofrecidos aquí son míos. Solo los he conservado de otras fuentes. Crédito respectivo para su creador o modder.
-
-# Foro de XDA del dispositivo, por si tienes alguna inquietud: [A23 XDA](https://xdaforums.com/f/redmi-note-12-4g.12753/)
-
-# Nuestro grupo de Telegram puede serte útil: **[Project Roms](https://t.me/projectroms)**
+* [Foro XDA Redmi Note 12 4G](https://xdaforums.com/f/redmi-note-12-4g.12753/)
+* [Grupo de Telegram: Project Roms](https://t.me/projectroms)
