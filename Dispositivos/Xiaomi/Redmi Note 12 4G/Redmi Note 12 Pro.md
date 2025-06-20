@@ -151,5 +151,7 @@ Solo haz esto cuando el bootloader esté desbloqueado y tengas un recovery insta
 
 ## Recursos adicionales
 
+**Esta guía fue posible gracias a @SerExis1 del Grupo de Telegram Proyect Roms, creditos y agradecimientos a él.**
+
 ### [Foro XDA Redmi Note 12 4G](https://xdaforums.com/f/redmi-note-12-4g.12753/)
 ### [Grupo de Telegram: Project Roms](https://t.me/projectroms)
