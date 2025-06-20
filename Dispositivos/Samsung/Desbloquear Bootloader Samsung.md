@@ -1,5 +1,6 @@
 # Desbloqueo de bootloader
-Este paso lo considero uno de los más sencillos aparte del root. Recuerde hacer copia de seguridad de sus datos. Empecemos:
+
+Este es el metodo más general para los dispositivos Samsung según mi experiencia para la serie **A**, puede que algunos textos o pasos, botones sean diferentes pero hay que ser muy caido de la mata para no percatarse, leer muchachos. Saludos
 
 - Entra a Ajustes > Acerca del teléfono > Información de software.  
 - Toca varias veces el número de compilación (unas 7 veces).  
