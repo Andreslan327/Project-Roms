@@ -12,6 +12,6 @@ Con el tiempo esta lista se irá llenando con más marcas y recursos.
 
 * [POCO](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/POCO/POCO%20Modelos.md)
 
-* [Xiaomi](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/Xiaomi/Xiaomi%20Modelos.txt)
+* [Xiaomi](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/Xiaomi/Xiaomi%20Modelos.md)
 
 (Más marcas se agregarán pronto)
