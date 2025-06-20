@@ -6,6 +6,6 @@ Aquí se listan los modelos disponibles de Xiaomi a los que se les ha recopilado
 
 ---
 
-* [Redmi Note 12 Pro (sweet_k6a)](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/Xiaomi/RedmiNote12Pro/RedmiNote12Pro.md)
+* [Redmi Note 12 Pro](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/Xiaomi/Redmi%20Note%2012%204G/Redmi%20Note%2012%20Pro.md)
 
 (Se irán agregando más modelos a medida que se consiga y organice la información correcta.)
