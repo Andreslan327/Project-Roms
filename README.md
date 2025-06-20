@@ -1,7 +1,7 @@
 # LanDroid
 
 **LanDroid** es un repositorio que recopila archivos, herramientas y enlaces útiles para modificar celulares Android.
-Aquí se encuentran cosas como boot.img, recoverys personalizados, custom ROMs, herramientas y más, **todo organizado por dispositivo**.
+Aquí se encuentran cosas como recoverys personalizados, custom ROMs, herramientas y más, **todo organizado por dispositivo**.
 
 ---
 
