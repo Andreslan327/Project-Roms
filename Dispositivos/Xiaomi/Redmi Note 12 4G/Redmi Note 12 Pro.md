@@ -50,7 +50,7 @@ Este método podría funcionar en algunos casos:
 
 ### Método Bypass (solo MIUI y HyperOS 1)
 
-* Descarga el programa HyperSploit desde su [GitHub](https://github.com/).
+* Descarga el programa HyperSploit desde su [GitHub](https://github.com/TheAirBlow/HyperSploit).
 * Abre el programa y conecta tu teléfono con la depuración USB activada.
 * Sigue las instrucciones. El programa te indicará cuántos días debes esperar.
 * Luego sigue los pasos del método Mi Unlock.
@@ -65,7 +65,7 @@ En internet hay muchas páginas que ofrecen el firmware "oficial" de Xiaomi. A c
 
 * [MiFirm Redmi Note 12 4G](https://mifirm.net/model/tapas.ttt#global)
 
-Para flashear el firmware puedes usar Mi Flash o ADB Sideload.
+Para flashear el firmware debes de usar Mi Flash Tool
 
 Te recomiendo unirte a este grupo:
 
