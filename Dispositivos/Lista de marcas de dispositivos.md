@@ -10,4 +10,6 @@ Con el tiempo esta lista se irá llenando con más marcas y recursos.
 
 * [Samsung](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/Samsung/Samsung%20Modelos.md)
 
+* [POCO](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/POCO/POCO%20Modelos.md)
+
 (Más marcas se agregarán pronto)
