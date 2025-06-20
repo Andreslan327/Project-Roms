@@ -4,7 +4,7 @@ Este apartado recopila todos los archivos útiles mencionados en la guía princi
 
 ---
 
-## Recoveries TWRP
+## Recoveries
 
 **TWRP según el método que usarás:**
 
@@ -25,6 +25,16 @@ Este apartado recopila todos los archivos útiles mencionados en la guía princi
 ## Vbmeta deshabilitado
 
 - [Vbmeta disabled A23](https://drive.google.com/file/d/1hvXxNBa9dJInPI2VixfE8Ry9YYw3pFMk/view?usp=sharing) (Evita errores de verificación al iniciar)
+
+---
+
+## Herramientas
+
+- [GCam 8.1](https://drive.google.com/file/d/1DSBMgym0-CFL4QhoTXi4fLSTmQphTS-i/view?usp=sharing)
+
+- [Configs para GCam 8.1](https://drive.google.com/file/d/1DREBiDqIfUHV8ARuTHuwnqOFROrfsGbi/view?usp=sharing)
+
+Estas configs en su momento fueron muy buenas y variadas para el celular, desde mi opinión, si las recomiendo.
 
 ---
 
