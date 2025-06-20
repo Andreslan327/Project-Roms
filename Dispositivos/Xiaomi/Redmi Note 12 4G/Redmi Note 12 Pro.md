@@ -1,6 +1,6 @@
 # Redmi Note 12 4G (Guía general)
 
-**Nota:** Si solo quieres los archivos, mira el apartado [Solo archivos](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/Xiaomi/Redmi%20Note%2012%204G/Tapas/Solo%20archivos%20A235M.md)
+**Nota:** Si solo quieres los archivos, mira el apartado [Solo archivos](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/Xiaomi/Redmi%20Note%2012%204G/Solo%20archivos%20Redmi%20Note%2012%20Pro.md)
 
 <p align="center">
   <img src="https://fdn2.gsmarena.com/vv/pics/xiaomi/redmi-note-12-4g-1.jpg" alt="Xiaomi Redmi Note 12 4G" width="400"/>
