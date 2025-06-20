@@ -1,4 +1,4 @@
-# Archivos necesarios - Galaxy A23 5G (SM-A235M)
+# Archivos necesarios - Galaxy A23 (SM-A235M)
 
 Este apartado recopila todos los archivos útiles mencionados en la guía principal. Si solo necesitas los archivos sin leer todo el proceso, aquí los tienes.
 
