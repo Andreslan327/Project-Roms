@@ -1,1 +1,1 @@
-# Desbloquear Bootloader Samsung
+Desbloqialo pa
