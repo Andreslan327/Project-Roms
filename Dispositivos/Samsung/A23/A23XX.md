@@ -4,4 +4,4 @@ Estos son los modelos actualmente disponibles para la serie A23. Se irán añadi
 
 ---
 
-* [A235M](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/Samsung/A23/A235M/A235M.md)
+* [A235M (Testeado por Andrés](https://github.com/Andreslan327/LanDroid/blob/main/Dispositivos/Samsung/A23/A235M/A235M.md)
